@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d43e16-1612-429f-95e3-9f6c4f0d985d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.11.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSE110_Firebase/react-firebase" beforeDir="false" afterPath="$PROJECT_DIR$/CSE110_Firebase/react-firebase" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSE110_Firebase/react-firebase/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSE110_Firebase/react-firebase/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSE110_Firebase/react-firebase/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSE110_Firebase/react-firebase/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSE110_Firebase/react-firebase/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSE110_Firebase/react-firebase/src/App.css" afterDir="false" />
@@ -21,16 +30,19 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CSE110_Firebase/react-firebase" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bDpzJ32Xftj6aXMRECsNpG6IX4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -111,12 +123,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588176783097</updated>
-      <workItem from="1588176793572" duration="2980000" />
+      <workItem from="1588176793572" duration="3884000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="776" y="100" width="497" height="535" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588179502005">
@@ -131,22 +146,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="754" y="143" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1588178835671" />
-    <state width="637" height="178" key="GridCell.Tab.0.bottom" timestamp="1588179554429">
+    <state width="637" height="178" key="GridCell.Tab.0.bottom" timestamp="1588180583747">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588179554429" />
-    <state width="637" height="178" key="GridCell.Tab.0.center" timestamp="1588179554429">
+    <state width="637" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588180583747" />
+    <state width="637" height="178" key="GridCell.Tab.0.center" timestamp="1588180583747">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588179554429" />
-    <state width="637" height="178" key="GridCell.Tab.0.left" timestamp="1588179554428">
+    <state width="637" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588180583747" />
+    <state width="637" height="178" key="GridCell.Tab.0.left" timestamp="1588180583747">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588179554428" />
-    <state width="637" height="178" key="GridCell.Tab.0.right" timestamp="1588179554429">
+    <state width="637" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588180583747" />
+    <state width="637" height="178" key="GridCell.Tab.0.right" timestamp="1588180583747">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588179554429" />
+    <state width="637" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588180583747" />
     <state width="637" height="150" key="GridCell.Tab.1.bottom" timestamp="1588178699982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -175,6 +190,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="795" y="70" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1588178836963" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588180686892">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588180686892" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
