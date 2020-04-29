@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74d43e16-1612-429f-95e3-9f6c4f0d985d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSE110_Firebase/react-firebase" beforeDir="false" afterPath="$PROJECT_DIR$/CSE110_Firebase/react-firebase" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSE110_Firebase/react-firebase/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSE110_Firebase/react-firebase/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSE110_Firebase/react-firebase/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/CSE110_Firebase/react-firebase/package.json" afterDir="false" />
@@ -116,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588176783097</updated>
-      <workItem from="1588176793572" duration="4606000" />
+      <workItem from="1588176793572" duration="5234000" />
     </task>
     <servers />
   </component>
@@ -183,10 +184,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="795" y="70" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1588178836963" />
-    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588181451606">
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588181565436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588181451606" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588181565436" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
