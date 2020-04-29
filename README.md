@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/aperubotla/Lab-5_CS110.svg?token=5M2LsKWRzNWDrxEXVHxk&branch=master)](https://travis-ci.com/aperubotla/Lab-5_CS110)
+[![Build Status](https://travis-ci.org/aperubotla/Lab-5_CS110.svg?branch=master)](https://travis-ci.org/aperubotla/Lab-5_CS110)
