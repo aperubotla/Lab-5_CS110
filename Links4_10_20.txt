@@ -1,0 +1,4 @@
+17:17:20	 From  Anirudh Perubotla : https://airtable.com/universe/expHZcS7kWEyq5gUH/recipe-database?explore=true
+17:20:28	 From  Anirudh Perubotla : https://api2.bigoven.com/web/documentation/recipes
+17:21:34	 From  ANDREW KARAFILIS TREMAINE : https://www.bigoven.com/
+17:26:51	 From  ANDREW KARAFILIS TREMAINE : https://firebase.google.com/docs/android/setup
